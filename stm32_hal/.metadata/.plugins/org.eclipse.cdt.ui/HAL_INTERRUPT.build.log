@@ -1,0 +1,10 @@
+09:50:35 **** Incremental Build of configuration Debug for project HAL_INTERRUPT ****
+make -j8 all 
+arm-none-eabi-size  HAL_INTERRUPT.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6280	     12	   1572	   7864	   1eb8	HAL_INTERRUPT.elf
+Finished building: default.size.stdout
+ 
+
+09:50:36 Build Finished. 0 errors, 0 warnings. (took 202ms)
+

@@ -1,0 +1,10 @@
+09:33:22 **** Incremental Build of configuration Debug for project Q3_Assign6 ****
+make -j8 all 
+arm-none-eabi-size  Q3_Assign6.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11820	     92	   2084	  13996	   36ac	Q3_Assign6.elf
+Finished building: default.size.stdout
+ 
+
+09:33:23 Build Finished. 0 errors, 0 warnings. (took 257ms)
+

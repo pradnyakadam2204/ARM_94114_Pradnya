@@ -1,0 +1,10 @@
+10:51:14 **** Incremental Build of configuration Debug for project Q2_hal_assign3 ****
+make -j8 all 
+arm-none-eabi-size  Q2_hal_assign3.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6044	     12	   1572	   7628	   1dcc	Q2_hal_assign3.elf
+Finished building: default.size.stdout
+ 
+
+10:51:14 Build Finished. 0 errors, 0 warnings. (took 314ms)
+
