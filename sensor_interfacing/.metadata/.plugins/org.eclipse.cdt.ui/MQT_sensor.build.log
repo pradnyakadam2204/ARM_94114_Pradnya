@@ -1,0 +1,10 @@
+11:02:29 **** Incremental Build of configuration Debug for project MQT_sensor ****
+make -j8 all 
+arm-none-eabi-size  MQT_sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33160	    468	   2052	  35680	   8b60	MQT_sensor.elf
+Finished building: default.size.stdout
+ 
+
+11:02:29 Build Finished. 0 errors, 0 warnings. (took 406ms)
+
