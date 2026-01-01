@@ -1,0 +1,21 @@
+12:22:00 **** Incremental Build of configuration Debug for project Assign8_Q2 ****
+make -j8 all 
+arm-none-eabi-size  Assign8_Q2.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9724	     12	   1660	  11396	   2c84	Assign8_Q2.elf
+Finished building: default.size.stdout
+ 
+12:22:10 **** Incremental Build of configuration Debug for project Assign8_Q2 ****
+make -j8 all 
+arm-none-eabi-size  Assign8_Q2.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9724	     12	   1660	  11396	   2c84	Assign8_Q2.elf
+Finished building: default.size.stdout
+ 
+12:22:58 **** Incremental Build of configuration Debug for project Assign8_Q2 ****
+make -j8 all 
+arm-none-eabi-size  Assign8_Q2.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9724	     12	   1660	  11396	   2c84	Assign8_Q2.elf
+Finished building: default.size.stdout
+ 
